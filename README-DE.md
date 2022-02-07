@@ -24,10 +24,10 @@
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 [![Build Status](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
 
-Dies ist eine Liste mit Materialien für Menschen, die neu in der
+Dies ist eine Liste mit Ressourcen für Menschen, die neu in der
 Open-Source-Welt sind und selbst etwas beitragen möchten.
 
-Wenn du weitere nützliche Materialien findest, starte bitte einen Pull Request.
+Wenn du weitere nützliche Ressourcen findest, eröffne bitte einen Pull Request.
 
 Wenn du Fragen oder Kommentare hast, eröffne bitte ein neues Issue.
 
@@ -51,7 +51,7 @@ Wenn du Fragen oder Kommentare hast, eröffne bitte ein neues Issue.
 - [Code Triage](https://www.codetriage.com/) - noch ein sehr schönes Tool, um nach Sprache sortiert beliebte Repositorys und Issues zu finden. -
   [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - ein GitHub-Repository, das Projekte mit guten Einsteiger\*innen-Bugs sammelt und
   mit entsprechenden Labels versieht.
-- [Open Source Guides](https://opensource.guide/) - eine Sammlung von Materialien für Einzelpersonen, Gruppen und Unternehmen, die lernen wollen, wie man
+- [Open Source Guides (DE)](https://opensource.guide/de) - eine Sammlung von Materialien für Einzelpersonen, Gruppen und Unternehmen, die lernen wollen, wie man
   Open-Source-Projekte selbst erstellt oder zu ihnen beiträgt.
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Regeln für das Verhalten auf GitHub
 - [GitHub Guides](https://guides.github.com/) - grundsätzliche Einführungen zur effizienten Nutzung von GitHub.
@@ -116,19 +116,19 @@ Suchbegriffe, die direkt auf für Einsteiger\*innen geeignete Issues auf GitHub 
   problemlos und sicher mit Git zu experimentieren.
 - [Try Git](https://try.github.io/) - Git lernen innerhalb von fünfzehn Minuten aus dem Browser heraus, kostenlos.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Eine hilfreiche Minimalversion der grundsätzlichsten Git-Kommandos.
-- [Oh shit, git!](http://ohshitgit.com/) - wie man die typischsten Git-Fehler vermeidet.
+- [Oh shit, git! (DE)](https://ohshitgit.com/de) - wie man die typischsten Git-Fehler vermeidet.
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/) - zahlreiche Tutorials über die Nutzung von `git`.
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
 - [freeCodeCamp's Wiki on Git Resources](https://www.freecodecamp.org/forum/t/wiki-git-resources/13136)
 - [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHub Talk darüber, wie man einen Pull-Request erstellt.
 - [GitHub Learning Resources](https://help.github.com/articles/git-and-github-learning-resources/) - Git und GitHub Lernmaterialien.
-- [Pro Git](https://git-scm.com/book/en/v2) - Das komplette Pro-Git-Buch, verfasst von Scott Chacon und Ben Straub (Apress).
+- [Pro Git (DE)](https://git-scm.com/book/de/v2) - Das komplette Pro-Git-Buch, verfasst von Scott Chacon und Ben Straub (Apress).
 - [Git-it](https://github.com/jlord/git-it-electron) - Schritt-für-Schritt-Git-Tutorial als Desktopanwendung.
 - [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - was zu tun ist, wenn die Dinge schiefgehen.
 - [A Comprehensive Introduction To Git and GitHub](https://codeburst.io/git-good-part-a-e0d826286a2a) - Eine Anleitung von Madhav Bahl für
   Einsteiger\*innen. Enthält Informationen über GitHub als Service und Konzepte der Git-Versionskontrolle.
-- [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - Eine vollständige Slide-Einführung über Git und GitHub auf Spanisch. Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
-- [Git Kraken](https://www.gitkraken.com/git-client) - Visuelle, plattformübergreifende und interaktive `git` Desktopanwendung.
+- *[Git Guide for Beginners in Spanish (ES)](https://platzi.github.io/git-slides/) - Eine vollständige Slide-Einführung über Git und GitHub auf Spanisch. Una guía completa de diapositivas sobre git y GitHub explicadas en Español.*
+- [GitHub Desktop](desktop.github.com) - Visuelle, plattformübergreifende und interaktive `git` Desktopanwendung.
 
 ## Open-Source-Bücher
 
